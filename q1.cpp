@@ -3,22 +3,22 @@
 #include<math.h>
 int main()
 {
-//Q. 1 Write a program to accept height and base of triangle and calculate area of 
-//Triangle.
-//int h,b,a;
-//printf("Enetr the Height and the Base of the triangle:");
-//scanf("%d %d",&h,&b);
-//a=(h*b)/2;
-//printf("area of the triangle is %d",a);
+// Q. 1 Write a program to accept height and base of triangle and calculate area of 
+// Triangle.
+// int h,b,a;
+// printf("Enetr the Height and the Base of the triangle:");
+// scanf("%d %d",&h,&b);
+// a=(h*b)/2;
+// printf("area of the triangle is %d",a);
 
-//Q. 2 Write a program to accept radius of circle and calculate area of circle
-//int r,a,pi=3.14;
-//printf("Enter the radius of the circule:");
-//scanf("%d",&r);
-//a=pi*r*r;
-//printf("Area of the circle is %d ",a);
+// Q. 2 Write a program to accept radius of circle and calculate area of circle
+// int r,a,pi=3.14;
+// printf("Enter the radius of the circule:");
+// scanf("%d",&r);
+// a=pi*r*r;
+// printf("Area of the circle is %d ",a);
 
-//Write a program to find the lowest marks of three students using conditional 
+//Q3.Write a program to find the lowest marks of three students using conditional 
 //operator.
 //  char marks[3];
 //  printf("enter the marks of first student:");
@@ -60,10 +60,10 @@ int main()
 //printf("the compound rate is %.2f",a);
 
 //Q. 5 Write a program to Calculate Cube of a Number.
-int n,c;
-printf("Please enter the number:");
-scanf("%d",&n);
-//c= n*n*n;
-c=pow(n,3);
-printf("Cube of the number:%d",c);
-}
+// int n,c;
+// printf("Please enter the number:");
+// scanf("%d",&n);
+// //c= n*n*n;
+// c=pow(n,3);
+// printf("Cube of the number:%d",c);
+// }
